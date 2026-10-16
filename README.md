@@ -1,5 +1,9 @@
+<img width="795" height="341" alt="Screenshot 2026-10-16 at 3 10 53 pm" src="https://github.com/user-attachments/assets/697e50b1-aa41-42c3-a59c-6da1defd5f4e" /
 SGR-MSAE: Single-graph-regularized supervised autoencoder for multi-cancer early detection and tissue-of-origin prediction
 Juntao Li, Lubin Cui, Shuxia Feng, Tianhai Tian. (submitted)
+
+
+
 
 1. Download the publicly available cfDNA dataset from 
 
